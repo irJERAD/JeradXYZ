@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/meditate-on-a-love-for-learning/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/appreciation-of-our-educational-opportunity/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/aproject.html"
@@ -18,6 +9,15 @@
     "listing": "/certifications.html",
     "items": [
       "/certifications/Google-Data-Analytics/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/meditate-on-a-love-for-learning/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/appreciation-of-our-educational-opportunity/index.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]

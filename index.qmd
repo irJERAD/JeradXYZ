@@ -14,9 +14,11 @@ about:
       icon: github
       url: "https://github.com/irjerad"
     - text: Email
+## TODO use favicon icons for better icon
       icon: mailbox2
       url: "mailto:jsacosta1103+site@gmail.com"
     - text: CV
+## TODO use favicon icons for better icon
       icon: filetype-pdf
       url: "JeradAcosta-CV.pdf"
 comments: false

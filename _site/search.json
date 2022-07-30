@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jerad Acosta",
     "section": "",
-    "text": "education\n\n\nself\n\n\nappreciation\n\n\nlove\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neducation\n\n\nself\n\n\nappreciation\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "As an adventurer I love to sail, surf, and when I can’t hit the ocean I’ll take my surfskate for a cruise. As an explorer I have lived up and down Califonia’s coast - San Diego, Santa Barbara, San Francisco - as well as the South Pacific Island of Tahiti and New Zealand. As a life long learner I am in pursuit of my next certification or digging around the corners of a favorite pastime.\nData or information, knowledge, and the value they can perform is the economy I work in. Building interactive dashboards for real-time action oriented decision making. The crawling, the collecting, the exploring, mutating and munging, working intimately with data to reveal true value and insights.\nI work with young students in their mid-teens as a tutor. A growth mindset and the power of ‘Yet’ are core to my program. Inspiring in students an ownership of their academics. I mentor them to become self-guided learners. Teaching them to meditate on a love for learning and devote themselves to an appreciation of their educational opportunity.\n\n\n\n\n\nUniversity of California San Diego\nLa Jolla, CA\nB.S. in Cognitive Science | September 2009 - January 2013\nM.n. in Applied Mathematics | September 2009 - January 2013"
   },
   {
     "objectID": "posts/meditate-on-a-love-for-learning/index.html",
@@ -35,11 +35,11 @@
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "certificates/Google-Data-Analytics/index.html",
-    "href": "certificates/Google-Data-Analytics/index.html",
-    "title": "Google Data Analytics Professional Certification",
+    "objectID": "projects/aproject.html",
+    "href": "projects/aproject.html",
+    "title": "This is a Project",
     "section": "",
-    "text": "This is a certification post"
+    "text": "this is a project"
   },
   {
     "objectID": "projects.html",
@@ -63,24 +63,10 @@
     "text": "education\n\n\nGCP\n\n\nData Analytics\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jerad Acosta",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
     "section": "",
-    "text": "As an adventurer I love to sail, surf, and when I can’t hit the ocean I’ll take my surfskate for a cruise. As an explorer I have lived up and down Califonia’s coast - San Diego, Santa Barbara, San Francisco - as well as the South Pacific Island of Tahiti and New Zealand. As a life long learner I am in pursuit of my next certification or digging around the corners of a favorite pastime.\nData or information, knowledge, and the value they can perform is the economy I work in. Building interactive dashboards for real-time action oriented decision making. The crawling, the collecting, the exploring, mutating and munging, working intimately with data to reveal true value and insights.\nI work with young students in their mid-teens as a tutor. A growth mindset and the power of ‘Yet’ are core to my program. Inspiring in students an ownership of their academics. I mentor them to become self-guided learners. Teaching them to meditate on a love for learning and devote themselves to an appreciation of their educational opportunity.\n\n\n\n\n\nUniversity of California San Diego\nLa Jolla, CA\nB.S. in Cognitive Science | September 2009 - January 2013\nM.n. in Applied Mathematics | September 2009 - January 2013"
-  },
-  {
-    "objectID": "projects/aproject.html",
-    "href": "projects/aproject.html",
-    "title": "This is a Project",
-    "section": "",
-    "text": "this is a project"
-  },
-  {
-    "objectID": "certifications/Google-Data-Analytics/index.html",
-    "href": "certifications/Google-Data-Analytics/index.html",
-    "title": "Google Data Analytics Professional Certification",
-    "section": "",
-    "text": "**![](images/profile.jpg)"
+    "text": "education\n\n\nself\n\n\nappreciation\n\n\nlove\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neducation\n\n\nself\n\n\nappreciation\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]

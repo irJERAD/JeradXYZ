@@ -8,22 +8,23 @@ project:
 
 website:
   title: "JeradXYZ"
+## TODO host site on netlify - use github repo
   site-url: https://jerad.xyz/
-  # comments: 
-  #   utterances:
-  #     repo: 
-## TODO: Create an add favicon
+  comments: 
+    utterances:
+      repo: irJERAD/JeradXYZ
+## TODO: Create an add favicon - use vectornator
 #  favicon: 
   navbar:
     right:
-      - text: "About"
-        href: about.qmd
       - text: "Posts"
         href: posts.qmd
       - text: "Projects"
         href: projects.qmd
       - text: "Certifications"
         href: certifications.qmd
+      - text: "About"
+        href: about.qmd
         
 format:
   html:
