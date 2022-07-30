@@ -1,0 +1,8 @@
+---
+title: "This is a Project"
+author: "Jerad Acosta"
+date: "2022-07-29"
+categories: [projects]
+---
+
+this is a project

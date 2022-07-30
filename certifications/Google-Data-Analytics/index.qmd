@@ -1,0 +1,10 @@
+---
+title: "Google Data Analytics Professional Certification"
+author: "Jerad Acosta"
+date: "2022-07-29"
+categories: [education,GCP,Data Analytics]
+---
+
+
+![](/certifications/Google-Data-Analytics.png)
+
