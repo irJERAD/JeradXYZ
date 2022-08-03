@@ -1,0 +1,19 @@
+---
+title: "San Diego Data Library 2015 Data Science Hackathon"
+author: "Jerad Acosta"
+date: "2017-02-28"
+categories: [data science, hackathon]
+image: "Jerad-Acosta-San-Diego-Data-Library-Hackathon.png"
+---
+
+Here is a clip of my presentation at the San Diego Data Library 2015 Data Science Hackathon:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUq_ojFRw2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+Along with my team, we won 1st or 2nd place. It was not too clear - but it was a pleasure to take part in.
+
+We got to bring light to some important topics in education. And had some great data to support our findings.
+
+Our participation was enjoyed so much that it lead to a collaboration between myself and Monarch. I worked on a dashboard that was to provide student insights for teachers and staff.

@@ -8,7 +8,6 @@ project:
 
 website:
   title: "JeradXYZ"
-## TODO host site on netlify - use github repo
   site-url: https://jerad.xyz/
   comments: 
     utterances:

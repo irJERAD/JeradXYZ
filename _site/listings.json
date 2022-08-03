@@ -15,9 +15,9 @@
     "listing": "/posts.html",
     "items": [
       "/posts/meditate-on-a-love-for-learning/index.html",
-      "/posts/post-with-code/index.html",
       "/posts/appreciation-of-our-educational-opportunity/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/San-Diego-DataScience-Hackathon/index.html"
     ]
   }
 ]

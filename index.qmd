@@ -16,7 +16,7 @@ about:
     - text: Email
 ## TODO use favicon icons for better icon
       icon: mailbox2
-      url: "mailto:jsacosta1103+site@gmail.com"
+      url: "mailtow:jsacosta1103+site@gmail.com"
     - text: CV
 ## TODO use favicon icons for better icon
       icon: filetype-pdf
@@ -48,5 +48,4 @@ M.n. in Applied Mathematics \| September 2009 - January 2013
 <p>
 
 </p>
-
 :::
