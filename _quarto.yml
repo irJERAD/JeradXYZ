@@ -9,6 +9,7 @@ project:
 website:
   title: "JeradXYZ"
   site-url: https://jerad.xyz/
+  favicon: images/logo.png
   google-analytics: "UA-91420291"
   comments: 
     utterances:

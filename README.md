@@ -12,4 +12,5 @@ The purpose of this site is to host some information on myself.
 
 ## TODO:
 
--   [ ] Make TODO list
+-   [x] Make TODO list
+-   [ ] Add Google Analytics
