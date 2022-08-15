@@ -75,7 +75,7 @@ The purpose of this site is to host some information on myself.
 
     -   [ ] Anticipation of Change
 
-    -   [ ] Count Down
+    -   [x] Count Down
 
 ## Portfolio
 
