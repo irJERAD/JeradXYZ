@@ -14,3 +14,103 @@ The purpose of this site is to host some information on myself.
 
 -   [x] Make TODO list
 -   [ ] Add Google Analytics
+
+## Posts
+
+-   **Cardinal Virtues**
+
+    -   [ ] Three Fundamental Truths - Introduction
+
+        -   [ ] Being True to Self
+
+            -   [ ] Know Yourself
+
+            -   [ ] Finding Self
+
+            -   [ ] Choosing Self
+
+            -   [ ] Storification of Self
+
+            -   [ ] Being untrue
+
+            -   [ ] Free self from past - rhetoric
+
+        -   [ ] Respecting the gift of life
+
+        -   [ ] Participating in reality
+
+-   **Religion**
+
+    -   **Christianity**
+
+        -   [ ] Gospel of Thomas - Know thyself, Finding Heaven within, Live in the moment
+
+    -   **Tao**
+
+        -   [ ] Virtue of non-contention
+
+    -   **Zen**
+
+-   **Mind, Consciousness, Psychology, Philosophy**
+
+    -   [ ] Is everything in the world a little bit conscious?
+
+        -   Entire Universe is intelligent
+
+    -   [ ] Death as the true nature of Life
+
+    -   **Holographic Theory**
+
+        -   [ ] Holographic Theory and Universals
+
+        -   [ ] two-dimensional particles
+
+        -   [ ] 11-dimensional universe inside the human brain
+
+-   **Life**
+
+    -   [ ] Lost in Paradise
+
+-   **Poetry**
+
+    -   [ ] Anticipation of Change
+
+    -   [ ] Count Down
+
+## Portfolio
+
+-   **Education, Distance Learning, Edutopia**
+
+    -   [ ] **Video:** Attitude as a mark of College and Career readiness
+
+    -   [ ] **Video:** The importance of Sleep
+
+    -   [ ] **Video:** Being successful in the future of education (for teachers, students, and parents)
+
+-   **Data Science Education**
+
+    -   [ ] AutoML - Automated Machine Learning
+
+        -   MLBox, auto-sklearn, AutoML
+
+-   **Projects**
+
+    -   [ ] Classifier App on Huggingface.co
+
+    -   [ ] Classifier App as SPA using huggingface API
+
+-   **Certificates**
+
+    -   [ ] Upload bulk into certificates directory
+
+    -   [ ] Create Gallery Page to showcase
+
+-   **Extra Curricular**
+
+    -   [ ] The Correct Sadists
+
+    -   [ ] UCSD Sailing
+
+    -   [ ] Sailing in New Zealand RNZYS
+
+    -   [ ] Gallery of favorite pictures of self doing life
