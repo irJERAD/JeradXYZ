@@ -99,6 +99,12 @@ The purpose of this site is to host some information on myself.
 
     -   [ ] Classifier App as SPA using huggingface API
 
+    -   [ ] Predictive Text - Last word of a line
+
+        -   user types a line and submits
+
+        -   Returns a list of predicted next word in degrees of opacity related to prediction confidence
+
 -   **Certificates**
 
     -   [ ] Upload bulk into certificates directory
