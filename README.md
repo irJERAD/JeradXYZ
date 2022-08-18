@@ -13,7 +13,7 @@ The purpose of this site is to host some information on myself.
 ## TODO:
 
 -   [x] Make TODO list
--   [ ] Add Google Analytics
+-   [x] Add Google Analytics
 
 ## Posts
 
@@ -104,6 +104,16 @@ The purpose of this site is to host some information on myself.
         -   user types a line and submits
 
         -   Returns a list of predicted next word in degrees of opacity related to prediction confidence
+
+    -   [ ] Got Bars - user submitted Rap Lyrics
+
+        -   Web crawl rap genius . com for best raps
+
+            -   most popular, most influential rank
+
+            -   Build an NLP model on corpus
+
+            -   Use to rank user input lyrics
 
 -   **Certificates**
 
