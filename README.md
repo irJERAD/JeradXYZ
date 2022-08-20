@@ -98,8 +98,24 @@ The purpose of this site is to host some information on myself.
         -   feature importance plot and finding most important columns or variables
 
             -   great when not using decision trees or random forests because you can build a random forest very fast (couple seconds) then use the feature importance plot to inform your deep learning model and data handling
+            -   Bagging
+                -   OOB Error - out of bag error
 
         -   Lesson 6: practical deep learning for coders 2022
+
+    -   [ ] What are we looking for in a good model? - Lesson 6 33min
+
+        -   How confident are we in our prediction using a particular row of data?
+
+        -   For predicting with a particular row of data, what were the most important factors, and how did they influence that prediction?
+
+        -   Which columns are the strongest predictors, which can we ignore?
+
+        -   Which columns are effectively redundant with each other, for purposes of prediction?
+
+            -   i.e. highly correlated with each other
+
+        -   How do predictions vary, as we vary these columns?
 
     -   [ ] Building a Neural Net with Excel
 
