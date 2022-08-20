@@ -93,6 +93,18 @@ The purpose of this site is to host some information on myself.
 
         -   MLBox, auto-sklearn, AutoML
 
+    -   [ ] How To make a Random Forest
+
+        -   feature importance plot and finding most important columns or variables
+
+            -   great when not using decision trees or random forests because you can build a random forest very fast (couple seconds) then use the feature importance plot to inform your deep learning model and data handling
+
+        -   Lesson 6: practical deep learning for coders 2022
+
+    -   [ ] Building a Neural Net with Excel
+
+        -   Lesson 5: practical deep learning for coders 2022
+
 -   **Projects**
 
     -   [ ] Classifier App on Huggingface.co

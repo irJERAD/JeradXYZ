@@ -24,6 +24,8 @@ website:
         href: projects.qmd
       - text: "Certifications"
         href: certifications.qmd
+      - text: "The Dry Dock"
+        href: https://tdd.jerad.xyz/
       - text: "About"
         href: about.qmd
         
