@@ -1,0 +1,16 @@
+---
+title: "Create a Conda env from a requirements.txt file"
+description: "how to quickly create a new conda env from a requirements.tct file"
+author: "Jerad Acosta"
+date: "2022-09-20"
+categories: [FYI,conda,python]
+---
+
+Create a Conda environment with all of the packages from a requirements.txt file automatically downloaded
+```{python}
+#| eval: false
+conda create --name <env_name> --file requirements.txt
+```
+
+`<env_name>` is the name you would like to give the environment <br>
+`requirements.txt` is the path to the requirements.txt file <br>

@@ -1,0 +1,11 @@
+{
+  "hash": "98648bda3a48da8e0830b07b08d89c51",
+  "result": {
+    "markdown": "---\ntitle: \"Create a Conda env from a requirements.txt file\"\ndescription: \"how to quickly create a new conda env from a requirements.tct file\"\nauthor: \"Jerad Acosta\"\ndate: \"2022-09-20\"\ncategories: [FYI,conda,python]\n---\n\nCreate a Conda environment with all of the packages from a requirements.txt file automatically downloaded\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nconda create --name <env_name> --file requirements.txt\n```\n:::\n\n\n`<env_name>` is the name you would like to give the environment <br>\n`requirements.txt` is the path to the requirements.txt file <br>\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

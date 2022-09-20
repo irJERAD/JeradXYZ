@@ -67,7 +67,7 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "FYI\n\n\ndata science\n\n\ndeep learning\n\n\npython\n\n\nfastai\n\n\n\n\nhow to train a deep learning model on more photos without using up all your memory\n\n\n\n\n\n\nAug 20, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neducation\n\n\nself\n\n\nappreciation\n\n\nlove\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neducation\n\n\nself\n\n\nappreciation\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ndata science\n\n\nhackathon\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2017\n\n\nJerad Acosta\n\n\n\n\n\n\nNo matching items"
+    "text": "FYI\n\n\nconda\n\n\npython\n\n\n\n\nhow to quickly create a new conda env from a requirements.tct file\n\n\n\n\n\n\nSep 20, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nFYI\n\n\ndata science\n\n\ndeep learning\n\n\npython\n\n\nfastai\n\n\n\n\nhow to train a deep learning model on more photos without using up all your memory\n\n\n\n\n\n\nAug 20, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neducation\n\n\nself\n\n\nappreciation\n\n\nlove\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neducation\n\n\nself\n\n\nappreciation\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ndata science\n\n\nhackathon\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2017\n\n\nJerad Acosta\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/San-Diego-DataScience-Hackathon/index.html",
@@ -89,5 +89,12 @@
     "title": "Train On More Photos In Less Space",
     "section": "Wrapping Up",
     "text": "Wrapping Up\n\nFastai has a great function resize_image() that allows us to significantly reduce out CPU overhead by reducing the size of the images we are working with\n\nIf a process in your notebook is bogging you down and you find yourself CPU Bound, this is great opportunity for optimization\n\n\nLook for ways to reduce the size of the files or data you are working with\n\nConsider forms of parallel computing or perhaps employing the GPU in that share of the work using something like PyTorch"
+  },
+  {
+    "objectID": "posts/create-conda-environment-from-requirements-dot-txt/index.html",
+    "href": "posts/create-conda-environment-from-requirements-dot-txt/index.html",
+    "title": "Create a Conda env from a requirements.txt file",
+    "section": "",
+    "text": "conda create --name <env_name> --file requirements.txt\n\n<env_name> is the name you would like to give the environment  requirements.txt is the path to the requirements.txt file"
   }
 ]
