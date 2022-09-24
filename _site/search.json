@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jerad Acosta",
-    "section": "",
-    "text": "As an adventurer I love to sail, surf, and when I can’t hit the ocean I’ll take my surfskate for a cruise. As an explorer I have lived up and down Califonia’s coast - San Diego, Santa Barbara, San Francisco - as well as the South Pacific Island of Tahiti and New Zealand. As a life long learner I am in pursuit of my next certification or digging around the corners of a favorite pastime.\nData or information, knowledge, and the value they can perform is the economy I work in. Building interactive dashboards for real-time action oriented decision making. The crawling, the collecting, the exploring, mutating and munging, working intimately with data to reveal true value and insights.\nI work with young students in their mid-teens as a tutor. A growth mindset and the power of ‘Yet’ are core to my program. Inspiring in students an ownership of their academics. I mentor them to become self-guided learners. Teaching them to meditate on a love for learning and devote themselves to an appreciation of their educational opportunity.\n\n\n\n\n\nUniversity of California San Diego\nLa Jolla, CA\nB.S. in Cognitive Science | September 2009 - January 2013\nM.n. in Applied Mathematics | September 2009 - January 2013"
-  },
-  {
     "objectID": "posts/meditate-on-a-love-for-learning/index.html",
     "href": "posts/meditate-on-a-love-for-learning/index.html",
     "title": "Meditate on a Love for Learning",
     "section": "",
     "text": "That was, until my math teacher at the time stood up gesturing he had heard enough and said:\n\n“This is ridiculous. The boy is obviously brilliant and should not be held back on account of our inability to reach him”\n\nYou see, I did not pay attention during class and I did not do homework at all - paired with some minor dyslexia and early symptoms of ADD - I was a horrible student. I did, however, LOVE our take home challenges we were given during math class. Designed to tease our sense of intuition and provoke a desire to solve something so revered it lay written along the side of the board calling out anyone who dare solve it.\nIn fact, I became so successful at these problems, my teacher drafted me to join the Mathletes - despite my appalling grades. It was this relationship, which then grew to include chess and competitive chess, that endeared me to this professor. And fortunately so because it was this familiarity which enabled him to stand up for me.\nAfter this debacle, it was clear something needed to change. This is when I began to take ownership of my own education. Something clicked in me. It became clear that academics was not the responsibility of my teachers, nor my parents, nor anyone other than myself.\n\nSo I decided I would Love School\nThe strategy that had the greatest impact on me was rather straight forward: Love School. Loving school was like self-selecting myself to become a nerd. But in order for this to work I had to fall in love with school first.\n\nFake it ’til You Make it\nAfter school, before faced with and whenever procrastinating the start of homework, I talk to myself.\n\n“I love school. I LOVE Math. History is so interesting…”\n\nNow when I work with students I advise them to take that minute between sitting down in class and when the teacher starts talking to meditate. Focus your attention inward. Take time to appreciate just where you are and what you are doing. Appreciate you educational opportunity. Recite the mantra:\n\n“I love this class. I am so lucky to be here. I am grateful for my teacher”\n\n\n\n\nConclusion\nSee how far intentional love and affectionate appreciation take you in your personal path through education."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
   },
   {
     "objectID": "posts/appreciation-of-our-educational-opportunity/index.html",
@@ -28,11 +14,39 @@
     "text": "“What would you like to be when you grow up?”\n\nThis simple question says a lot about us as a society.\nFor one, how incredibly self-lead we must be! I mean, we are asking 4 and 5 year olds to provide introspective and existential information on the where and what-abouts of their future, both near and far.\nIt was not so long ago - in our relative history as a species - where one was simply born into a future; the one currently held by their parents. The son’s of farmers would grow up working the land with their family to become farmers themselves. The offspring of tradesmen had their cast iron future - son of a blacksmith would grow up to study and become a blacksmith. And the fortunate sons of merchants had their lot in life set afront of them before they could begin to walk it.\nPerhaps the most diverse set of future possibilities belonged to the young women of the past. For they could become the wives of whom ever was so arranged to be their husband. That, however, just does not hold up to the expectations and perceived rights of the future for today’s young women."
   },
   {
+    "objectID": "posts/San-Diego-DataScience-Hackathon/index.html",
+    "href": "posts/San-Diego-DataScience-Hackathon/index.html",
+    "title": "San Diego Data Library 2015 Data Science Hackathon",
+    "section": "",
+    "text": "Along with my team, we won 1st or 2nd place. It was not too clear - but it was a pleasure to take part in.\nWe got to bring light to some important topics in education. And had some great data to support our findings.\nOur participation was enjoyed so much that it lead to a collaboration between myself and Monarch. I worked on a dashboard that was to provide student insights for teachers and staff."
+  },
+  {
+    "objectID": "posts/create-conda-environment-from-requirements-dot-txt/index.html",
+    "href": "posts/create-conda-environment-from-requirements-dot-txt/index.html",
+    "title": "Create a Conda env from a requirements.txt file",
+    "section": "",
+    "text": "conda create --name <env_name> --file requirements.txt\n\n<env_name> is the name you would like to give the environment  requirements.txt is the path to the requirements.txt file"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/train-on-more-photos-in-less-space/index.html",
+    "href": "posts/train-on-more-photos-in-less-space/index.html",
+    "title": "Train On More Photos In Less Space",
+    "section": "",
+    "text": "I love using Kaggle when creating and training deep learning models. Their free, cloud hosted, Jupyter Notebooks are a great resource for Data Science, Machine and Deep Learning enthusiasts such as myself.\n\nIf you too use Kaggle, Paperspace, or another free cloud hosted notebook environment, then you are most definitely familiar with your resources and the management of computing power.\n\n\n\n\n\n\nOne resource to look out for when training deep learning models on image data is the CPU. When a process is being held up on account of the CPU the computer is consider CPU Bound. Because the training of most AI, neural network, deep learning, and machine learning models employs parallelization through the GPU we should be concerned when we notice our process being help up by the CPU.\n\n\nIn-fact, anytime a process overly throttles a single resource we should take note - this usually spells out opportunity for optimisatoin.\n\nFortunately, Kaggle displays our CPU, GPU, and HDD (Hard Disk Drive) usage in the top right corner of the notebook. It is here we can identify when we are running low on resources or have used up our allotted amount of free computing power - if you are using their free tier access.\nBelieve it or not, rendering JPEG files is actually a slow and cumbersome process. Iterating through tens, hundred’s, thousands, or a greater number of images become quite a massive job to take on - and this all happens in the CPU!\n\nThis is an example of the early mentioned CPU Bound process.\n\n A CPU Bound Kaggle Notebook\n\n\n\n\n\nLet’s check out a pretty straight forward method of helping out our CPUs - reducing the size of our images and requiring less memory to be processed.\n\nHere we are going to use resize_images() from the fastai library.\n\n\ntrn_path = Path('sml')\nresize_images(path/'train_images', dest=trn_path, max_size=256, recurse=True)\n\nHere we:\n\n\nCreate a new training images path trn_path named ./sml/.\nThen, using resize_images() we:\n\nGrab each file in the directory: path/train_images (the images)\nresize each file to a max_size of 256\ndrop the new images in the directory dest=trn_path\nRuning this through each image in the directory\n\n\nWe have taken a collection of 1024px images and reduced their size 4x. Additionally, resize_images() keeps the directory structure in tact, leaving the new images in an identical form exactly where we directed in the dest parameter."
+  },
+  {
+    "objectID": "posts/train-on-more-photos-in-less-space/index.html#wrapping-up",
+    "href": "posts/train-on-more-photos-in-less-space/index.html#wrapping-up",
+    "title": "Train On More Photos In Less Space",
+    "section": "Wrapping Up",
+    "text": "Wrapping Up\n\nFastai has a great function resize_image() that allows us to significantly reduce out CPU overhead by reducing the size of the images we are working with\n\nIf a process in your notebook is bogging you down and you find yourself CPU Bound, this is great opportunity for optimization\n\n\nLook for ways to reduce the size of the files or data you are working with\n\nConsider forms of parallel computing or perhaps employing the GPU in that share of the work using something like PyTorch"
   },
   {
     "objectID": "projects/aproject.html",
@@ -47,6 +61,13 @@
     "title": "Projects",
     "section": "",
     "text": "projects\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jerad Acosta",
+    "section": "",
+    "text": "As an adventurer I love to sail, surf, and when I can’t hit the ocean I’ll take my surfskate for a cruise. As an explorer I have lived up and down Califonia’s coast - San Diego, Santa Barbara, San Francisco - as well as the South Pacific Island of Tahiti and New Zealand. As a life long learner I am in pursuit of my next certification or digging around the corners of a favorite pastime.\nData or information, knowledge, and the value they can perform is the economy I work in. Building interactive dashboards for real-time action oriented decision making. The crawling, the collecting, the exploring, mutating and munging, working intimately with data to reveal true value and insights.\nI work with young students in their mid-teens as a tutor. A growth mindset and the power of ‘Yet’ are core to my program. Inspiring in students an ownership of their academics. I mentor them to become self-guided learners. Teaching them to meditate on a love for learning and devote themselves to an appreciation of their educational opportunity.\n\n\n\n\n\nUniversity of California San Diego\nLa Jolla, CA\nB.S. in Cognitive Science | September 2009 - January 2013\nM.n. in Applied Mathematics | September 2009 - January 2013"
   },
   {
     "objectID": "about.html",
@@ -68,33 +89,5 @@
     "title": "Posts",
     "section": "",
     "text": "FYI\n\n\nconda\n\n\npython\n\n\n\n\nhow to quickly create a new conda env from a requirements.tct file\n\n\n\n\n\n\nSep 20, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nFYI\n\n\ndata science\n\n\ndeep learning\n\n\npython\n\n\nfastai\n\n\n\n\nhow to train a deep learning model on more photos without using up all your memory\n\n\n\n\n\n\nAug 20, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neducation\n\n\nself\n\n\nappreciation\n\n\nlove\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\neducation\n\n\nself\n\n\nappreciation\n\n\n\n\n\n\n\n\n\n\n\nJul 28, 2022\n\n\nJerad Acosta\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ndata science\n\n\nhackathon\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2017\n\n\nJerad Acosta\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/San-Diego-DataScience-Hackathon/index.html",
-    "href": "posts/San-Diego-DataScience-Hackathon/index.html",
-    "title": "San Diego Data Library 2015 Data Science Hackathon",
-    "section": "",
-    "text": "Along with my team, we won 1st or 2nd place. It was not too clear - but it was a pleasure to take part in.\nWe got to bring light to some important topics in education. And had some great data to support our findings.\nOur participation was enjoyed so much that it lead to a collaboration between myself and Monarch. I worked on a dashboard that was to provide student insights for teachers and staff."
-  },
-  {
-    "objectID": "posts/train-on-more-photos-in-less-space/index.html",
-    "href": "posts/train-on-more-photos-in-less-space/index.html",
-    "title": "Train On More Photos In Less Space",
-    "section": "",
-    "text": "I love using Kaggle when creating and training deep learning models. Their free, cloud hosted, Jupyter Notebooks are a great resource for Data Science, Machine and Deep Learning enthusiasts such as myself.\n\nIf you too use Kaggle, Paperspace, or another free cloud hosted notebook environment, then you are most definitely familiar with your resources and the management of computing power.\n\n\n\n\n\n\nOne resource to look out for when training deep learning models on image data is the CPU. When a process is being held up on account of the CPU the computer is consider CPU Bound. Because the training of most AI, neural network, deep learning, and machine learning models employs parallelization through the GPU we should be concerned when we notice our process being help up by the CPU.\n\n\nIn-fact, anytime a process overly throttles a single resource we should take note - this usually spells out opportunity for optimisatoin.\n\nFortunately, Kaggle displays our CPU, GPU, and HDD (Hard Disk Drive) usage in the top right corner of the notebook. It is here we can identify when we are running low on resources or have used up our allotted amount of free computing power - if you are using their free tier access.\nBelieve it or not, rendering JPEG files is actually a slow and cumbersome process. Iterating through tens, hundred’s, thousands, or a greater number of images become quite a massive job to take on - and this all happens in the CPU!\n\nThis is an example of the early mentioned CPU Bound process.\n\n A CPU Bound Kaggle Notebook\n\n\n\n\n\nLet’s check out a pretty straight forward method of helping out our CPUs - reducing the size of our images and requiring less memory to be processed.\n\nHere we are going to use resize_images() from the fastai library.\n\n\ntrn_path = Path('sml')\nresize_images(path/'train_images', dest=trn_path, max_size=256, recurse=True)\n\nHere we:\n\n\nCreate a new training images path trn_path named ./sml/.\nThen, using resize_images() we:\n\nGrab each file in the directory: path/train_images (the images)\nresize each file to a max_size of 256\ndrop the new images in the directory dest=trn_path\nRuning this through each image in the directory\n\n\nWe have taken a collection of 1024px images and reduced their size 4x. Additionally, resize_images() keeps the directory structure in tact, leaving the new images in an identical form exactly where we directed in the dest parameter."
-  },
-  {
-    "objectID": "posts/train-on-more-photos-in-less-space/index.html#wrapping-up",
-    "href": "posts/train-on-more-photos-in-less-space/index.html#wrapping-up",
-    "title": "Train On More Photos In Less Space",
-    "section": "Wrapping Up",
-    "text": "Wrapping Up\n\nFastai has a great function resize_image() that allows us to significantly reduce out CPU overhead by reducing the size of the images we are working with\n\nIf a process in your notebook is bogging you down and you find yourself CPU Bound, this is great opportunity for optimization\n\n\nLook for ways to reduce the size of the files or data you are working with\n\nConsider forms of parallel computing or perhaps employing the GPU in that share of the work using something like PyTorch"
-  },
-  {
-    "objectID": "posts/create-conda-environment-from-requirements-dot-txt/index.html",
-    "href": "posts/create-conda-environment-from-requirements-dot-txt/index.html",
-    "title": "Create a Conda env from a requirements.txt file",
-    "section": "",
-    "text": "conda create --name <env_name> --file requirements.txt\n\n<env_name> is the name you would like to give the environment  requirements.txt is the path to the requirements.txt file"
   }
 ]
