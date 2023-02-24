@@ -15,16 +15,10 @@ about:
       href: https://github.com/irjerad
 ---
 
-### This Site Current Construction  
+### This Site Current Construction
 
 This site is a place for me to organize my current self and support my ongoing development.
 
+### Professional and Academic
 
-### Profesional and Academic  
-
-You can find my professional curriculum vitae - [CV](/CV) - beside my academic endeavors and educational exploits. Come in closer for my personal tastes explored through pastimes and experience laden opinions.  
-
-
-### Should You Know Further More  
-
-If you would like to explore an ongoing conversation with myself and developing personal philosophy, browse [The Dry Dock](https://TDD.jerad.xyz). There you can find my best attempt at capturing what it is I believe and who it is I find one could become if they knew such themselves.
+You can find my professional curriculum vitae - [CV](/CV) - beside my academic endeavors and educational exploits. Come in closer for my personal tastes explored through pastimes and experience laden opinions.
