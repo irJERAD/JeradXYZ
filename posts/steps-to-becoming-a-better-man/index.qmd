@@ -1,0 +1,46 @@
+---
+title: "My Steps Toward Becoming A Better Man"
+date: 2023-03-20
+draft: true
+---
+
+# How to approach this article
+
+-   List of actual steps
+    -   Examples of the steps and what they would look like applied to my life
+    -   What I hope to gain from the successful adoption of these improvements of self
+-   Focus tips
+    -   Find something you are more passionate about than trying to figure out what is going on in your head
+
+## Routine
+
+-   400 am Drink 6 to 8 ounces
+-   400 am Do minimal weight routine
+-   430 am Duo Lingo
+-   510 am Breakfast
+-   545 am Brush teeth
+-   600 am Emails, Review and Schedule Meetings for the day
+-   630 am Protein
+-   645 am
+
+## List of Portfolio Projects
+
+### Fenua Surf Chronic Doc / App
+
+-   An app meant to interface the world of surf fans and tourists to the island of Tahiti for the 2024 Olympics
+-   The first prototype was akin to a Yelp for Surfing in Tahiti (tides, info, swell direction, etc)
+    -   However, on further exploration it has been decided that the best medium to truly share the rich culture of Tahiti and it's treasured surf heritage is through a mini-documentary hosted in app form
+    -   Unfortunately I do not know how to do this, nor do I have any examples to go by.
+-   **Stupid Strategy:** Content, Content Content!
+    -   I want to start collecting content in as many forms as possible
+    -   I want to be creative in the formats of this content as well as the structure
+        -   **Examples:**
+            -   It would be cool to provide multiple maps within the app.
+                -   The general Apple / Google Maps API version with pin and local approved spots (only able to share surf locations that are unanimously given approval by the locals there)
+                    -   MUST HAVE PINS FOR PARKING SPOTS FOR LOCATIONS LISTED ON THE APP
+                -   I would love to see some old school hand drawn "secret spot maps" maybe we could blur one of these. Or make a fake or funny version one that includes inside jokes or interesting cultural garnishing.
+                -   
+            -   Short video interviews with the most local of locals from each spot. Have them share their history with the break. Ask
+            -   Take pictures at surf breaks, surf shops, shaper rooms, homes of surf artists, anywhere you hear about that holds significance with the surf community or represents Tahitian surf heritage
+
+### ThinkDoReview
