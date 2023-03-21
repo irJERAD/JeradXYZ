@@ -6,22 +6,21 @@ draft: true
 
 # How to approach this article
 
--   List of actual steps
-    -   Examples of the steps and what they would look like applied to my life
-    -   What I hope to gain from the successful adoption of these improvements of self
--   Focus tips
-    -   Find something you are more passionate about than trying to figure out what is going on in your head
-
 ## Routine
+
+> A good start to a great day!
 
 -   400 am Drink 6 to 8 ounces
 -   400 am Do minimal weight routine
 -   430 am Duo Lingo
 -   510 am Breakfast
--   545 am Brush teeth
+-   545 am Brush Teeth
 -   600 am Emails, Review and Schedule Meetings for the day
--   630 am Protein
--   645 am
+-   630 am Protein take 1/2 serving
+-   645 am Morning Writing Session (to open mind to a free flowing creative process, providing more sharp, clear, and potentially insightful perspectives on tasks throughout the day)
+-   800 am Pick Up one of your portfolio project
+-   900 am Track your progress (Git, Keep a log of features completed and todo)
+-   
 
 ## List of Portfolio Projects
 
@@ -35,12 +34,35 @@ draft: true
     -   I want to start collecting content in as many forms as possible
     -   I want to be creative in the formats of this content as well as the structure
         -   **Examples:**
-            -   It would be cool to provide multiple maps within the app.
+            -   It would be cool to provide multiple maps within the app
                 -   The general Apple / Google Maps API version with pin and local approved spots (only able to share surf locations that are unanimously given approval by the locals there)
                     -   MUST HAVE PINS FOR PARKING SPOTS FOR LOCATIONS LISTED ON THE APP
-                -   I would love to see some old school hand drawn "secret spot maps" maybe we could blur one of these. Or make a fake or funny version one that includes inside jokes or interesting cultural garnishing.
-                -   
-            -   Short video interviews with the most local of locals from each spot. Have them share their history with the break. Ask
+                -   I would love to see some old school hand drawn "secret spot maps" maybe we could blur one of these. Or make a fake or funny version one that includes inside jokes or interesting cultural garnishing
+            -   Short video interviews with the most local of locals from each spot. Have them share their history with the break. Ask them about their relationship with Tahitian culture and surfing.
             -   Take pictures at surf breaks, surf shops, shaper rooms, homes of surf artists, anywhere you hear about that holds significance with the surf community or represents Tahitian surf heritage
 
-### ThinkDoReview
+#### Think about this concept from where you create or frame your art:
+
+-   How can I share the experience that I receive when I surf in Tahiti (could be at spot level - however using a more global perspective holds a focus on the idea of the Tahitian Surf Culture from the perspective of the individual surfer)
+
+-   How does one represent Tahiti Surf Culture and experience to app downloaders
+
+## ThinkDoReview
+
+### Think
+
+-   User entered evaluation of their mental state at any given moment
+
+### Do
+
+-   User selects one activity from a list of custom generated
+
+    -   Context: inside, outside
+
+    -   Time
+
+### Review
+
+-   A collection of charts, graphical resources that provide the user quick feedback on:
+
+    -   Relationships between specific activities and trend in your emotional state

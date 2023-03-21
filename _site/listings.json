@@ -14,7 +14,9 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/portfolio-projects/index.html",
       "/posts/Spring-2023-Goals/index.html",
+      "/posts/understand-the-need-around-you/index.html",
       "/posts/camera/index.html",
       "/posts/create-conda-environment-from-requirements-dot-txt/index.html",
       "/posts/train-on-more-photos-in-less-space/index.html",
